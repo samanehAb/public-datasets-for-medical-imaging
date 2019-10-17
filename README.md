@@ -1,2 +1,1 @@
-# public-datasets-for-medical-imaging
-A list of public datasets for medical image analysis
+#Common public datasets used in medical image analysis
