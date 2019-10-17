@@ -1,4 +1,4 @@
-!!!! Under construction!!!!
+!!!! Under construction !!!!
 # Common public datasets used in medical image analysis
 In this repository, I have gathered a list of public datasets comonly used for medical image analysis research. The list is sorted accordning to anatomical regions and for each set a short description about its content is available.  
 
@@ -10,7 +10,7 @@ If there are other datasets which I have not included in the list, please let me
 - [Contact](#contact)
 
 ## Anatomical regions
-#### [Eye](eye.md)
+#### [Eye](Eye.md)
 #### Full body
 #### Brain
 #### Heart
