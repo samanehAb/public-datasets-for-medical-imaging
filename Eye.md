@@ -1,0 +1,20 @@
+# Eye
+
+
+|**Name**| **Modality**/**Type** |**Annotations**|**Description**|
+|:--- |:---| :---| :---|
+|[DRIVE](https://www.isi.uu.nl/Research/Databases/DRIVE/)| Fundus imaging (Canon CR5 non-mydriatic 3CCD camera with a 45<sup>o</sup> FOV)| Blood vessel segmentation | <ul><li>768x584 pixels </li><li>In total 40 images </li><li>33 subjects with no signs of DR and 7 with signs of mild early DR.  </li></ul>|  
+|[STARE](http://cecas.clemson.edu/~ahoover/stare/) | Fundus imaging | <ul><li>[13 diagnoses available](http://cecas.clemson.edu/~ahoover/stare/diagnoses/diagnoses.html)</li><li>Artery/vein labeling (10 images) </li><li>Blood vessel segmentation (40 images) </li><li>Presence of 44 possible manifestations (features)</li><li>Optic nerve locations (80 images) </li></ul> | <ul><li>400 images</li><li>Retinal conditions include emboli, retinal vessel occlusive diseases, diabetic retinopathy, hypertensive retinopathy, Coat's disease, and choroidal neovascularization. </li></ul>
+|[HRF](https://www5.cs.fau.de/research/data/fundus-images/)|
+|[MESSIDOR](http://www.adcis.net/en/third-party/messidor/) | Fundus imaging (Topcon TRC NW6 non-mydriatic fundus camera with a 45<sup>o</sup> FOV)| <ul><li>Diabetic Retinopathy grade</li><li> Risk of macular oedema</li></ul> | <ul><li> In total, 1200 images </li><li> 1440x960, 2240x1488 or 2304x1536 pixels</li></ul>
+|[MESSIDOR-2](http://latim.univ-brest.fr/indexfce0.html)|Fundus imaging (Topcon TRC NW6 non-mydriatic fundus camera with a 45<sup>o</sup> FOV) | <ul><li>Diabetic Retinopathy grade</li><li> Risk of macular oedema</li></ul> |<ul><li> An extension of the original MESSIDOR database. </li><li> 1748 retinal images</li></ul>|
+|[DRiDB](https://ipg.fer.hr/ipg/resources/image_database) |  |  | <ul><li>item1</li><li>item2</li></ul>
+|[DIARETDB0](http://www.it.lut.fi/project/imageret/diaretdb0/)| Fundus imaging (50<sup>o</sup> FOV) |Presence of signs of DR |<ul><li>In total, 130 images</li><li>20 are normal and 110 contain signs of DR</li><li>Signs of DR include hard exudates, soft exudates, micronaneuyrysms, hemorrhages and neovascularization</li></ul>  
+|[DIARETDB1](http://www.it.lut.fi/project/imageret/diaretdb1/)| Fundus imaging (50<sup>o</sup> FOV) |approximate locations of signs of DR | <ul><li>In total, 89 images</li><li>84 contain at least mild non-proliferative signs of diabetic retinopathy, and 5 are considered normal.</li><li>Independent markings from 4 medical experts.</li><li>Marked signs include microaneurysms, hemorrhages, and hard and soft exudates.</li></ul> 
+|[IOSTAR](http://www.retinacheck.org/datasets)|
+|[EyePacs](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)| Fundus imaging | Diabetic retinopathy grading| <ul><li>In total, 35,126 images </li><li> Acquired with a variety of fundus cameras.</li><li> A left and right field for every subject.</li></ul> |
+|[Origa-650](http://imed.nimte.ac.cn/Origa-650.html)|Fundus imaging | glaucomatous | <ul><li>In total, 650 images</li><li>168 glaucomatous and 482 non-glaucoma images.</li></ul>|
+
+#### Notes
+- DR: Diabetic Retinopathy
+- FOV: field of view
