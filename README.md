@@ -10,7 +10,7 @@ If there are other datasets which I have not included in the list, please let me
 - [Contact](#contact)
 
 ## Anatomical regions
-#### [Eye](eye.md)
+#### [Eye](Eye.md)
 <!--#### Full body
 #### Brain
 #### Heart
