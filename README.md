@@ -11,7 +11,7 @@ If there are other datasets which I have not included in the list, please let me
 
 ## Anatomical regions
 #### [Eye](eye.md)
-#### Full body
+<!--#### Full body
 #### Brain
 #### Heart
 #### Breast
@@ -24,13 +24,14 @@ If there are other datasets which I have not included in the list, please let me
 #### Colon
 #### Ovary
 #### Skin
-#### Nuclei
-#### Blood
+#### Nuclei 
+#### Blood vessels -->
 
 ## Other references
 You may want to check other collections of medical imaging datasets as well. Here are some examples:
 - [Medical imaging datasets](https://github.com/sfikas/medical-imaging-datasets)
 - [MedicMind resources](https://www.medicmind.tech/resources-2/)
+
 ## Contact
 You can contact me by [email](samaneh.abbasis@gmail.com).
 
