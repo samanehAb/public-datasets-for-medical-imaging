@@ -1,17 +1,19 @@
 !!!! Under construction!!!!
 # Common public datasets used in medical image analysis
-In this repository, I have gathered a list of public datasets comonly used for medical image analysis research. The list is sorted accordning to anatomical regions and for each set a short description about its content is available.  
+In this repository, I have gathered a list of public datasets comonly used for medical image analysis research. The list is sorted accordning to the imaging modality and for each set a short description about its content is available.  
 
 If there are other datasets which I have not included in the list, please let me know or create a pull request and I will add them to the list. 
 
 ## Overview
-- [Anatomical Regions](#anatomical-regions)
+- [Modality](#modality)
 - [Other references](#other-references)
 - [Contact](#contact)
 
-## Anatomical regions
-#### [Eye](Eye.md)
-<!--#### Full body
+## Modality
+#### [Fundus imaging](Eye.md)
+#### [Digital pathology](pathology.md)
+<!--
+#### Full body
 #### Brain
 #### Heart
 #### Breast
@@ -24,7 +26,6 @@ If there are other datasets which I have not included in the list, please let me
 #### Colon
 #### Ovary
 #### Skin
-#### Nuclei 
 #### Blood vessels -->
 
 ## Other references

@@ -1,5 +1,4 @@
-# Eye
-
+# Fundus Imaging
 
 |**Name**| **Modality**/**Type** |**Annotations**|**Description**|
 |:--- |:---| :---| :---|
